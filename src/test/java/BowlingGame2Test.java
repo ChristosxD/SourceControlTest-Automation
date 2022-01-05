@@ -5,4 +5,12 @@ public class BowlingGame2Test {
     public void lisaTestFour(){
 
     }
+    @Test
+    public void lisaTestSix(){
+        //bug
+    }
+    @Test
+    public void lisaTestSeven(){
+        //bug
+    }
 }

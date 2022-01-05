@@ -6,5 +6,8 @@ public class BowlingGameTest {
     public void ChrisTestOne(){
 
     }
+    @Test
+    public void ChrisTestTwo(){
 
+    }
 }

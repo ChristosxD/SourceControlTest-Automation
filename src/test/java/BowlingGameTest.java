@@ -3,15 +3,19 @@ import org.junit.jupiter.api.Test;
 public class BowlingGameTest {
 
     @Test
-    public void ChrisTestOne(){
+    public void chrisTestOne(){
 
     }
     @Test
-    public void ChrisTestTwo(){
+    public void chrisTestTwo(){
 
     }
     @Test
-    public void ChrisTestThree(){
+    public void chrisTestThree(){
+
+    }
+    @Test
+    public void lisaTestThree(){
 
     }
 }

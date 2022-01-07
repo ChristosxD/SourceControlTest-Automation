@@ -21,4 +21,8 @@ public class BowlingGame2Test {
     public void jessicaTestNine(){
         //bug
     }
+    @Test
+    public void jessicaTestTen(){
+
+    }
 }
